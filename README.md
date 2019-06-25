@@ -1,7 +1,18 @@
-## Codelab - Nome da Apresentação
+## Talk - Android: Resources e Layouts
 
 ### Descrição
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla scelerisque ullamcorper accumsan. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Suspendisse potenti. Vivamus iaculis mollis lobortis. Vivamus quis ex nec urna fermentum rhoncus vel ac orci.
+Uma apresentação rápida sobre sobre os tipos de Layouts, como usar os resources de forma correta. Padronizar e simplificar as views no xml com uso do `styles.xml` e dicas na construção de layouts.
 
 ### Palestrante(s)
-- [ SEU NOME ](URL_PERFIL_OU_GIT)
+- [Victor Hugo](http://fbvictorhugo.github.io/)
+
+## Sumário
+
+### Layouts
+
+| Tipos de Layouts        | Breve Descrição           |
+| ------------- |-------------|
+| Linear Layout      | right-aligned |
+| Table Layout      | centered      |
+| ~~Relative Layout~~ | are neat      |
+| Constraint Layout | are neat      |
