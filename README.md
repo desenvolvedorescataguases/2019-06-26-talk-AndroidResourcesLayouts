@@ -5,14 +5,3 @@ Uma apresentação rápida sobre sobre os tipos de Layouts, como usar os resourc
 
 ### Palestrante(s)
 - [Victor Hugo](http://fbvictorhugo.github.io/)
-
-## Sumário
-
-### Layouts
-
-| Tipos de Layouts        | Breve Descrição           |
-| ------------- |-------------|
-| Linear Layout      | right-aligned |
-| Table Layout      | centered      |
-| ~~Relative Layout~~ | are neat      |
-| Constraint Layout | are neat      |
